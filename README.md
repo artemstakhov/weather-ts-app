@@ -9,7 +9,7 @@ Weather App is an application that displays current weather and forecasts based 
 1. Clone the repository:
 
     ```bash
-    git clone <YOUR_REPOSITORY_URL>
+    git clone https://github.com/artemstakhov/weather-ts-app.git
     cd weather-app
     ```
 
